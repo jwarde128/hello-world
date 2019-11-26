@@ -1,3 +1,3 @@
 # hello-world
 my hello world
-a bit abojt myself
+a bit about myself
